@@ -11,7 +11,7 @@
 	<groupId>com.vishesh.prime</groupId>
 	<artifactId>primenumbers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>primenumbers</name>
+	<name>primenumbers12</name>
 	<description>Rest API to return list of prime numbers less than equal to a given number</description>
 	<properties>
 		<java.version>1.8</java.version>
